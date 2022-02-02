@@ -1,0 +1,15 @@
+com\mycompany\lhm\Practitioner.class
+com\mycompany\lhm\Surgeon.class
+com\mycompany\lhm\Patient.class
+com\mycompany\lhm\TreatmentCourse.class
+com\mycompany\lhm\Payment.class
+com\mycompany\lhm\Prescription.class
+com\mycompany\lhm\InsurancePolicy.class
+com\mycompany\lhm\Person.class
+com\mycompany\lhm\TreatmentActor.class
+Main.class
+com\mycompany\lhm\Appointment.class
+com\mycompany\lhm\Hospital.class
+com\mycompany\lhm\TreatmentItem.class
+com\mycompany\lhm\Consultant.class
+com\mycompany\lhm\Treatment.class
